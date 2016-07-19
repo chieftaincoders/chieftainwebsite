@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <?php require_once("lib/head-utils.php");?>
+
+</head>
+<body>
+
 <h1> Derp </h1>
 
-<p> Alan Push 123 </p>
+</body>
+</html>
