@@ -1,23 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
     <?php require_once("lib/head-utils.php");?>
 
 </head>
 <body>
-
-<div class="menu-collapsed">
-    <div class="bar"></div>
-    <nav>
-        <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Portfolio</a></li>
-            <li><a href="#">Fundraiser</a></li>
-            <li><a href="#">Contact Us</a></li>
-        </ul>
-    </nav>
-</div>
 
 <!--=================================================
                       Carousel
