@@ -24,7 +24,7 @@
                  alt="firstSlide">
             <div class="container">
                 <div class="carousel-caption">
-                    <h3 class="leadtag-carousel"> Hello</h3>
+                    <h1 class="leadtag-carousel"> Hello</h1>
                 </div>
             </div>
         </div>
