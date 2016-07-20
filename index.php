@@ -6,6 +6,18 @@
 </head>
 <body>
 
+<div class="menu-collapsed">
+    <div class="bar"></div>
+    <nav>
+        <ul>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Portfolio</a></li>
+            <li><a href="#">Fundraiser</a></li>
+            <li><a href="#">Contact Us</a></li>
+        </ul>
+    </nav>
+</div>
 
 <!--=================================================
                       Carousel
@@ -24,7 +36,7 @@
                  alt="firstSlide">
             <div class="container">
                 <div class="carousel-caption">
-                    <h3 class="leadtag-carousel"> Hello</h3>
+                    <h1 class="leadtag-carousel"> Hello</h1>
                 </div>
             </div>
         </div>
@@ -63,7 +75,7 @@
 </div>
 <!-- End of carousel-->
 
-//<h1> Derp </h1>
+<h1> Derp </h1>
 
 </body>
 </html>
