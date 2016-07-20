@@ -63,7 +63,7 @@
 </div>
 <!-- End of carousel-->
 
-//<h1> Derp </h1>
+<h1> Derp </h1>
 
 </body>
 </html>
