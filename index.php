@@ -6,18 +6,10 @@
 </head>
 <body>
 
-<div class="menu-collapsed">
-    <div class="bar"></div>
-    <nav>
-        <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Portfolio</a></li>
-            <li><a href="#">Fundraiser</a></li>
-            <li><a href="#">Contact Us</a></li>
-        </ul>
-    </nav>
+<div class="mainImage">
+    <?php require_once("navbar.php");?>
 </div>
+
 
 <!--=================================================
                       Carousel
@@ -32,33 +24,31 @@
     <div class="carousel-inner" role="listbox">
         <div class="item active">
             <img class="first-slide"
-                 src="#"
+                 src="http://tinyurl.com/zrpw9oc"
                  alt="firstSlide">
             <div class="container">
                 <div class="carousel-caption">
-                    <h1 class="leadtag-carousel"> Hello</h1>
+                    <h1 class="leadtag-carousel"> Chieftain Coders </h1>
                 </div>
             </div>
         </div>
         <div class="item">
             <img class="second-slide"
-                 src="#"
+                 src="http://tinyurl.com/hyfcsvb"
                  alt="secondSlide">
             <div class="container">
                 <div class="carousel-caption">
-                    <h1>Hello</h1>
-                    <p>.</p>
+                    <h1>This is a squirrel that i will run over with my tricycle</h1>
                 </div>
             </div>
         </div>
         <div class="item">
             <img class="third-slide"
-                 src="#"
+                 src="http://tinyurl.com/ojko2y4"
                  alt="thirdSlide">
             <div class="container">
                 <div class="carousel-caption">
-                    <h1>Hello</h1>
-                    <p>.</p>
+                    <h1>Derp</h1>
                 </div>
             </div>
         </div>
