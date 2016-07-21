@@ -46,29 +46,112 @@ body {
 }
 /*my section done today*/
 /*derp derp derp derp derp der der derp derp derp derp derp ee*/
+/*derp derp derp derp this me section that me doind derp eerp derp der just a reminder for myself dero derp erp */
+
+
 
 
 .icon-bar {
     background-color: #bab5b4;
 }
-li {
-    text-align: center;
+.navbar-right{
+    padding-right: 20px;
+}
+.navbar-collapse {
+    text-align:center;
+}
+.navbar-nav {
+    display:inline-block;
+    float:none;
 }
 #dropdownLists {
     background-color: #bab5b4;
     opacity: 1;
 }
 .dropdown{
-    opacity: 1;
+    text-align: center;
 }
 #buttonDrop{
     background-color:transparent;
     border-color:transparent;
 }
+.leadtag-carousel {
+    font-family: orbitron;
+    font-size: 5em;
+    color: #e31f23;
+}
+#bs-example-navbar-collapse-1 {
+    text-align: center;
+}
+            /*#bs-nav-demo{*/
+                /*opacity: 0.2;*/
+            /*}*/
+            /*#bs-nav-demo:hover {*/
+                /*opacity: 1;*/
+                /*filter: alpha(opacity=100);*/
+            /*}*/
+.link {
+    opacity: 0.4;
+}
+#link {
+    opacity: 0.4;
+    align-self: center;
+    background-color: black;
+    word-spacing: 20px;
+}
+#link:hover{
+    background-color: black;
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+#link1 {
+    opacity: 0.4;
+    align-self: center;
+    background-color: black;
+    word-spacing: 20px;
+}
+#link1:hover{
+    background-color: black;
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+#link2 {
+    opacity: 0.4;
+    align-self: center;
+    background-color: black;
+    word-spacing: 20px;
+}
+#link2:hover{
+    background-color: black;
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+#link3 {
+    opacity: 0.4;
+    align-self: center;
+    background-color: black;
+    word-spacing: 20px;
+}
+#link3:hover{
+    background-color: black;
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+#link4 {
+    opacity: 0.4;
+    align-self: center;
+    background-color: black;
+    word-spacing: 10px;
+}
+#link4:hover{
+    background-color: black;
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
 
 
 
-
+/*this is just a reminder for myself that this is the end of the section that i am working on derp derp derp*/
 /*end of my section done today*/
 /*derp derp derp derp derp der der derp derp derp derp derp ee*/
 
@@ -112,7 +195,7 @@ ul {
     line-height: 200px;
     height: 100%;
     width: 100%;
-    border-radius: 0px;
+    border-radius: 0;
     top: 0;
     left: 0;
     background-color: rgba(0, 0, 0, 0.85);

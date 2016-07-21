@@ -28,4 +28,6 @@
 
 <link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
 
-<link rel="stylesheet" type="text/css" href="lib/css/style.css"/>
+<link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" type="text/css" href="/lib/css/style.css"/>

@@ -7,6 +7,10 @@
 </head>
 <body>
 
+<div class="mainImage">
+    <?php require_once("navbar.php");?>
+</div>
+
     <div class="mainImage-2" datasrc="...">
         <h1>Contact</h1>
         <p><a class="btn btn-primary btn-large" href="#">Learn More</a></p>
