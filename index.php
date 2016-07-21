@@ -6,12 +6,9 @@
 </head>
 <body>
 
-<div class="mainImage">
     <?php require_once("navbar.php");?>
-</div>
 
-
-<!--=================================================
+    <!--=================================================
                       Carousel
 ==================================================-->
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
