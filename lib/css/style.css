@@ -28,6 +28,127 @@
     margin-right: 0;
 }
 
+body {
+    height: 100%;
+    background-color: #333;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+.b-a {
+    transition: all .25s;
+    content: "";
+    position: absolute;
+    left: 0;
+    height: 6px;
+    width: 30px;
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.95);
+}
+/*my section done today*/
+/*derp derp derp derp derp der der derp derp derp derp derp ee*/
+
+
+.icon-bar {
+    background-color: #bab5b4;
+}
+li {
+    text-align: center;
+}
+#dropdownLists {
+    background-color: #bab5b4;
+    opacity: 1;
+}
+.dropdown{
+    opacity: 1;
+}
+#buttonDrop{
+    background-color:transparent;
+    border-color:transparent;
+}
+
+
+
+
+/*end of my section done today*/
+/*derp derp derp derp derp der der derp derp derp derp derp ee*/
+
+.menu-collapsed {
+    transition: all .25s;
+    position: fixed;
+    top: 10px;
+    left: 9px;
+    height: 36px;
+    width: 36px;
+    z-index: 1;
+    cursor: pointer;
+}
+ul {
+    transition: all 0s;
+    position: fixed;
+    left: -9000px;
+}
+.bar {
+@extend . b-a;
+    position: fixed;
+    left: 12px;
+    top: 24px;
+}
+:before {
+ @extend .b-a;
+     top: -8px;
+ }
+:after {
+ @extend .b-a;
+     top: 8px;
+ }
+
+.b-a-expanded {
+    transition: all .25s;
+    top: -0px;
+}
+.menu-expanded {
+    transition: all .25s;
+    text-align: center;
+    line-height: 200px;
+    height: 100%;
+    width: 100%;
+    border-radius: 0px;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.85);
+}
+ul {
+    transition: all 0s;
+    position: relative;
+    left: 0;
+    z-index: 2;
+}
+a {
+    transition: all .15s;
+    text-decoration: none;
+    font-size: 2em;
+    padding: 5px;
+    color: #fff;
+}
+:hover {
+     transition: all .15s;
+     letter-spacing: 2px;
+     border: 1px solid rgba(255, 255, 255, .15);
+ }
+
+.bar {
+    background-color: transparent;
+    transition: all .25s;
+}
+:before {
+@extend . b-a-expanded;
+    transform: rotate(45deg);
+}
+:after {
+ @extend .b-a-expanded;
+     transform: rotate(-45deg);
+ }
+
 h1 {
     font-size: 3em;
     text-align: center;
@@ -37,16 +158,4 @@ p {
     width: 80%;
     margin: 0 auto;
     line-height: 20px;
-}
-
-.mainimage-2{
-    background: no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    height: 100vh;
-    padding: 10%;
-    text-align: center;
-    color: black;
 }
