@@ -1,8 +1,18 @@
-<nav class="navbar navbar-default">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <?php require_once("lib/head-utils.php");?>
+
+</head>
+<body>
+
+<nav class="navbar navbar-transparent navbar-fixed-top">
+    <ul class="nav navbar-nav navbar-right">
+        <li><a href="https://www.facebook.com/shiprock.chieftain"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+    </ul>
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#bs-nav-demo" aria-expanded="false">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -18,6 +28,7 @@
                 <li class="link" id="link4"><a href="contact.php">Contact Us</a></li>
             </ul>
         </div>
-    </div>
 </nav>
 
+</body>
+</html>

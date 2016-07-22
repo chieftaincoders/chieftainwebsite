@@ -41,7 +41,7 @@
         </div>
         <div class="item">
             <img class="third-slide"
-                 src="http://tinyurl.com/ojko2y4"
+                 src="http://tinyurl.com/j7qulyb"
                  alt="thirdSlide">
             <div class="container">
                 <div class="carousel-caption">
