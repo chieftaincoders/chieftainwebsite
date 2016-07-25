@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="73f053ad-e9e2-48a7-ac32-21af548cd981" name="chieftainwebsite" url="http://192.241.155.6">
+      <webServer id="c2b3499a-4aab-426a-8b9a-5262cbcf0708" name="chieftainwebsite" url="http://192.241.155.6">
         <fileTransfer host="192.241.155.6" port="22" rootFolder="/usr/share/nginx/html/chieftaincoders" accessType="SFTP" password="dfd9dfc2df9bdfdadfd8df9adfc9dfc1" username="root">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />

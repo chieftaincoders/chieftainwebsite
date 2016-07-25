@@ -261,9 +261,19 @@ form{
 }
 
 .contactpage{
-    text-align: center;
+    text-align: right;
 }
 
 .para{
     font-size: 1.1em;
+    float: left;
+}
+
+iframe{
+    alignment: center;
+    float: right;
+}
+
+.forp{
+    float:left;
 }
