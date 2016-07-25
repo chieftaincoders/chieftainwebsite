@@ -16,7 +16,7 @@
 </div>
 
 <div class="divide">
-    <p> We are learning how to code and decode the information given to us by our teachers Charles
+    <p> We are learning how to code and decode the information given to us by our teachers Charles,
         Krieg, Eric, and John. They taught us how to learn the keys and code given to us, we took these
         codes and written them in our projects and files. They are great teachers, they taught us what being a coder
         meant to us and with us writting codes for the websites. are the coders of shiprock High School
