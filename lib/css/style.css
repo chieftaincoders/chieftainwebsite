@@ -81,6 +81,7 @@ body {
     font-size: 6em;
     color: #e31f23;
 }
+
 #bs-example-navbar-collapse-1 {
     text-align: center;
 }
@@ -218,11 +219,11 @@ a {
     padding: 5px;
     color: #fff;
 }
-:hover {
-     transition: all .15s;
-     letter-spacing: 2px;
-     border: 1px solid rgba(255, 255, 255, .15);
- }
+/*:hover {*/
+     /*transition: all .15s;*/
+     /*letter-spacing: 2px;*/
+     /*border: 1px solid rgba(255, 255, 255, .15);*/
+ /*}*/
 
 .bar {
     background-color: transparent;
