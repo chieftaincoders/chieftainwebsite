@@ -7,7 +7,7 @@
 <body>
 
     <?php require_once("navbar.php");?>
-    
+
 
     <div class="carousel-inner" role="listbox">
         <div class="item active">
@@ -20,10 +20,6 @@
                 </div>
             </div>
         </div>
-</div>
-<!-- End of carousel-->
-<div class="container">
-    <h1 id="text"> Derp </h1>
 </div>
 
 </body>`
