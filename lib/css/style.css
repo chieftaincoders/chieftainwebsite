@@ -31,7 +31,7 @@
 body {
     height: 100%;
     background-color: #333;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Heebo', sans-serif;
     color: white;
 }
 .b-a {
@@ -77,7 +77,7 @@ body {
     border-color:transparent;
 }
 .leadtag-carousel {
-    font-family: orbitron;
+    font-family: 'Heebo', sans-serif;
     font-size: 6em;
     color: #e31f23;
 }
@@ -256,6 +256,7 @@ p {
     line-height: 20px;
 }
 
+/*Contact page*/
 .mainimage-2{
     background: no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -266,11 +267,13 @@ p {
     padding: 10%;
     text-align: center;
     color: black;
+    font-family: 'Heebo', sans-serif;
 }
 
 form{
     width: 330px;
-    margin: 0px auto;
+    margin: 0 auto;
+    font-family: 'Heebo', sans-serif;
 }
 
 .contactpage{
@@ -280,6 +283,7 @@ form{
 .para{
     font-size: 1.1em;
     float: left;
+    font-family: 'Heebo', sans-serif;
 }
 
 iframe{
@@ -289,4 +293,5 @@ iframe{
 
 .forp{
     float:left;
+    font-family: 'Heebo', sans-serif;
 }

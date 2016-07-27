@@ -26,8 +26,10 @@
       integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1"
       crossorigin="anonymous">
 
-<link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
 
-<link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
+
+<!--ALWAYS USE HEEBO-->
+<link href='https://fonts.googleapis.com/css?family=Heebo:400,700' rel='stylesheet' type='text/css'>
 
 <link rel="stylesheet" type="text/css" href="lib/css/style.css"/>

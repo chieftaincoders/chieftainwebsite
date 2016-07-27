@@ -5,33 +5,29 @@
     <?php require_once("lib/head-utils.php");?>
 
 </head>
-<body>
+<body class="bruh">
 
-<div class="mainImage">
-    <?php require_once("navbar.php");?>
-</div>
-
-    <div class="mainImage-2" datasrc="...">
+    <div class="mainImage-2">
         <h1>Contact</h1>
+        <?php require_once("navbar.php");?>
+
     </div>
 
 <div class="container">
     <h4>Chieftain Coders</h4>
 <p class="para">
     <br>
-    Tel:
-    <a href="tel:(505)368-5161" class="para">(505) 368-5161</a>
+    Tel: (505) 368-5161
     <br>
     Fax: (505) 368-5796
     <br>
     Email: shs@centralschools.org
 </p>
-
-    <hr>
     
+    <br>
     <div class="container">
+        <h3 class="forp"> Message us:</h3>
         <form class="forp">
-            <h3 class="forp"> Message us:</h3>
             <div class="form-group">
                 <label for="exampleInputName1">Name (required)</label>
                 <input type="text"  class="form-control" id="exampleInputName1" placeholder="Marcel Stylinson">
@@ -43,7 +39,7 @@
             </div>
             <div class="form-group">
                 <label for="exampleInputsubject1">Message</label>
-                <input type="text" class="form-control" placeholder="Text input">
+                <input type="text" class="form-control" placeholder="Subject">
             </div>
             <button type="submit" class="btn btn-default">Submit</button>
         </form>
@@ -57,8 +53,10 @@
             width="600"
             height="450"
             frameborder="10"
-            style="border:0"
             allowfullscreen></iframe>
      </div>
 </body>
+
+<script src="lib/js/script.js"></script>
+
 </html>

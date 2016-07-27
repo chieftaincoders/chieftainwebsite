@@ -38,4 +38,7 @@
 <p>This is some text. <img src="" alt="Smiley face" align="middle"> This is some text.</p>
 
 </body>
+
+<script src="lib/js/script.js"></script>
+
 </html>

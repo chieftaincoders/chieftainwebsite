@@ -13,8 +13,12 @@
 
 <div class="mainImage-4" datasrc="...">
     <h1>Portfolio</h1>
-    <p><a class="btn btn-primary btn-large" href="#">Learn More</a></p>
 </div>
 
+
+
 </body>
+
+<script src="lib/js/script.js"></script>
+
 </html>
