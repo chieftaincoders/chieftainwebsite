@@ -32,4 +32,6 @@
 <!--ALWAYS USE HEEBO-->
 <link href='https://fonts.googleapis.com/css?family=Heebo:400,700' rel='stylesheet' type='text/css'>
 
-<link rel="stylesheet" type="text/css" href="lib/css/style.css"/>
+<link rel="stylesheet" type="text/css" href="lib/css/style.css">
+
+

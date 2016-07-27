@@ -3,6 +3,8 @@
 <head>
     <?php require_once("lib/head-utils.php");?>
 
+    <link rel="stylesheet" type="text/css" href="lib/css/style3.css">
+    
 </head>
 <body>
 

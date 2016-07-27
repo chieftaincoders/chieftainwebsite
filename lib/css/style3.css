@@ -1,0 +1,129 @@
+.icon-bar {
+    background-color: #bab5b4;
+}
+.navbar-right{
+    padding-right: 20px;
+}
+.navbar-collapse {
+    text-align:center;
+}
+.navbar-nav {
+    display:inline-block;
+    float:none;
+}
+#dropdownLists {
+    background-color: #bab5b4;
+    opacity: 1;
+}
+.dropdown{
+    text-align: center;
+}
+#buttonDrop{
+    background-color:transparent;
+    border-color:transparent;
+}
+.leadtag-carousel {
+    font-family: orbitron;
+    font-size: 6em;
+    color: #e31f23;
+}
+#port {
+    background: url("http://tinyurl.com/jf2peeq")  no-repeat;
+    background-size: cover;
+    padding-top: 90px;
+}
+.row {
+    text-align: center ;
+    padding-top: 90px;
+}
+.jumbotron {
+    padding: 15px auto;
+    opacity: 0.3;
+    background-color: #74bee3;
+}
+/*.hidden {*/
+/*display: none;*/
+/*}*/
+
+#bs-example-navbar-collapse-1 {
+    text-align: center;
+}
+/*#bs-nav-demo{*/
+/*opacity: 0.2;*/
+/*}*/
+/*#bs-nav-demo:hover {*/
+/*opacity: 1;*/
+/*filter: alpha(opacity=100);*/
+/*}*/
+#coders {
+    color: crimson;
+    text-align: center;
+    opacity: 1;
+    font-size: 4em;
+}
+#photos {
+    height: 300px;
+    width: 300px;
+}
+.link {
+    opacity: 0.4;
+}
+#link {
+    opacity: 0.4;
+    align-self: center;
+    background-color: black;
+    word-spacing: 20px;
+}
+#link:hover{
+    background-color: black;
+    opacity: 1;
+    filter: alpha(opacity=100);
+    cursor: pointer; url("xp-middle-finger-2.png");
+}
+#link1 {
+    opacity: 0.4;
+    align-self: center;
+    background-color: black;
+    word-spacing: 20px;
+}
+#link1:hover{
+    background-color: black;
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+#link2 {
+    opacity: 0.4;
+    align-self: center;
+    background-color: black;
+    word-spacing: 20px;
+}
+#link2:hover{
+    background-color: black;
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+#link3 {
+    opacity: 0.4;
+    align-self: center;
+    background-color: black;
+    word-spacing: 20px;
+}
+#link3:hover{
+    background-color: black;
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+#link4 {
+    opacity: 0.4;
+    align-self: center;
+    background-color: black;
+    word-spacing: 10px;
+}
+#link4:hover{
+    background-color: black;
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+link, a:hover {
+    cursor: url(http://cur.cursors-4u.net/symbols/sym-1/sym46.cur), progress !important;
+}
