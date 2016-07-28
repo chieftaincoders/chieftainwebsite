@@ -16,6 +16,9 @@
     <p><a class="btn btn-primary btn-large" href="#">Learn More</a></p>
 </div>
 
+<div>
+    <div></div>
+</div>
 </body>
 
 <script src="lib/js/script.js"></script>

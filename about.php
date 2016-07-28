@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-    <?php require_once("lib/head-utils.php");?>
+    <?php require_once("lib/head-utils2.php");?>
 
 </head>
 <body>
@@ -11,31 +11,31 @@
     <?php require_once("navbar.php");?>
 </div>
 
-<div class="mainImage-1" datasrc="...">
-    <h1>About</h1>
-</div>
-
-<div class="divide">
-    <p> We are learning how to code and decode the information given to us by our teachers Charles,
-        Krieg, Eric, and John. They taught us how to learn the keys and code given to us, we took these
-        codes and written them in our projects and files. They are great teachers, they taught us what being a coder
-        meant to us and with us writting codes for the websites. are the coders of shiprock High School
-        <img src=""</p>
-</div>
-
-<div>
-    <div>
-        <li>
-            <ul>
-                <h1>
-                    <p> Hello how are you ? </p>
-                </h1>
-            </ul>
-        </li>
+<div class="container">
+    <div class="jumbotron">
+        <h1 class="letters">
+            About 
+        </h1>
     </div>
 </div>
 
-<p>This is some text. <img src="" alt="Smiley face" align="middle"> This is some text.</p>
+<div class="divide">
+    <p>
+    <br>
+        <ul>We all joined the cultivating coders to learn how to code, inside and outside the web page.
+        It does take time to learn like we did, it is worth the time learning how to code. Some breif
+        time later we would start to get the hang of the formate that we learned from our instructor Charles.
+        </ul>
+    <br>
+        <ul>The aspiration of learning how to make a website is intricate, with 
+        </ul>
+    <br>
+        <ul>Why we're doing coding is to learn the information that would needed to be done to create a websites inside and
+        out.
+        </ul>
+
+    </p>
+</div>
 
 </body>
 
