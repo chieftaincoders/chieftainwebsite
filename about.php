@@ -11,11 +11,11 @@
     <?php require_once("navbar.php");?>
 </div>
 
-<div class="container">
-    <div class="jumbotron">
-        <h1 class="letters">
-            About 
-        </h1>
+<div class="top">
+    <div class="container">
+        <div class="jumbotron">
+            <h1 class="letters"> About </h1>
+        </div>
     </div>
 </div>
 
@@ -31,7 +31,7 @@
         </ul>
     <br>
         <ul>Why we're doing coding is to learn the information that would needed to be done to create a websites inside and
-        out.
+        out. Whaat else should i on here
         </ul>
 
     </p>

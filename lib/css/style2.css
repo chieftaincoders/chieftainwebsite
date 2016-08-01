@@ -1,12 +1,16 @@
 .jumbotron {
-    background-color: #333333;
+    background-color: rgba(0,0,0,0) !important;
+    margin-top: 50px;
+    min-height: 100px;
+    min-width: 50px;
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
-
 
 .letters {
     text-align: center;
     opacity: 1;
-    bacckground-color: red
+    color: #333333;
 }
 
 .divide {
@@ -14,5 +18,28 @@
     alignment: center;
     width: 50%;
     font-size: 1.5em;
+
+}
+body {
+    background-image: url("http://tinyurl.com/jta9tvk");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin:0;
+    padding:0;
+    perspective: 1px;
+    transform-style: preserve-3d;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 100%;
+
+}
+.silver  {
+    height: 100%;
+
+}
+
+.mainImage-3 {
+    text-align: center;
 
 }
