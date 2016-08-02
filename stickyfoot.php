@@ -6,7 +6,7 @@
 <body >
 
 <footer class="site-footer">
-    Copyright © 2016 Shiprock High
+    Copyright ©  2016 Shiprock High
 </footer>
 
 </body>

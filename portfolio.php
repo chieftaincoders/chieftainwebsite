@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
 
     <?php require_once("lib/head-utils3.php");?>
@@ -65,16 +65,16 @@
             <div id="floatleft" class="col-lg-4 col-md-6 col-sm-6">
                 <img id="photos" src="http://tinyurl.com/hatgfm6" class="img-circle">
                 <p id="codingCoders"><strong> Rius Goodman </strong>
-                    <br>
-                <p>
-                    <br>
-                    <i class="em em-arrow_down"></i>
-                    <i class="em em-smiley_cat"></i>
-                    <i class="em em-arrow_down"></i>
-                </p>
-                <button type="button" class="myButton">
-                    <a id="codersWeb" href="http://riusbearjew.com/"> Rius's Web </a>
-                </button>
+                        <br>
+                    <p>
+                        <br>
+                        <i class="em em-arrow_down"></i>
+                        <i class="em em-smiley_cat"></i>
+                        <i class="em em-arrow_down"></i>
+                    </p>
+                    <button type="button" class="myButton">
+                        <a id="codersWeb" href="http://riusbearjew.com/"> Rius's Web </a>
+                    </button>
                 </p>
             </div>
     

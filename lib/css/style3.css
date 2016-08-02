@@ -84,16 +84,10 @@
     padding: 150px auto;
     opacity: 0.3;
     background-color: #74bee3;
-
 }
-/*.hidden {*/
-/*display: none;*/
-/*}*/
-
 #bs-example-navbar-collapse-1 {
     text-align: center;
 }
-
 #coders {
     color: crimson;
     text-align: center;
