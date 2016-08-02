@@ -31,9 +31,9 @@
     padding-bottom: 200px;
 }
 #codersback {
-    background: url("http://tinyurl.com/hbu5lzd") center no-repeat;
+    background: url("http://tinyurl.com/hbu5lzd") center center fixed no-repeat;
     background-size: cover;
-    padding-right: 3px;
+    padding-right: 56px;
 }
 #floatleft {
     float: left;
@@ -42,6 +42,7 @@
 #floatright {
     float: right;
     margin: 10px;
+    padding-left: 98px;
 }
 .secondPart {
     background-color: white;
@@ -101,12 +102,12 @@
 }
 p {
     color: black;
-    font-size: 1.5em;
+    font-size: 1.6em;
     font-family: 'EB+Garamond';
 }
 #codingCoders {
     font-family: 'EB+Garamond';
-    font-size: 2.5em;
+    font-size: 2.4em;
 }
 #photos {
     height: 300px;
@@ -225,3 +226,29 @@ a {
 /*link, a:hover {*/
     /*cursor: url(http://cur.cursors-4u.net/symbols/sym-1/sym46.cur), progress !important;*/
 /*}*/
+/* Mostly: http://ryanfait.com/sticky-footer/ */
+
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
+.page-wrap {
+    min-height: 100%;
+    /* equal to footer height */
+    margin-bottom: -40px;
+}
+.page-wrap:after {
+    content: "";
+    display: block;
+}
+.site-footer, .page-wrap:after {
+    /* .push must be the same height as footer */
+    height: 40px;
+}
+.site-footer {
+    background: lightgray;
+    text-align: center;
+    padding-top: 17px;
+}

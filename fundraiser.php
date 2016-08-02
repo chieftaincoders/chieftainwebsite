@@ -29,5 +29,7 @@
 </body>
 
 <script src="lib/js/script.js"></script>
+<?php require_once("stickyfoot.php");?>
+
 
 </html>

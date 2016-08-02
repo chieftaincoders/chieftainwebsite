@@ -21,11 +21,12 @@
              alt="firstSlide">
         <div class="container">
             <div class="carousel-caption">
-                <h1 class="leadtag-carousel"> Chieftain Coders </h1>
+                <h1 class="leadtag-carousel"> CHIEFTAIN CODERS </h1>
             </div>
         </div>
     </div>
 </div>
 
 </body>
+    <?php require_once("stickyfoot.php");?>
 </html>
