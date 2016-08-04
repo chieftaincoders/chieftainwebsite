@@ -3,6 +3,8 @@
 <head>
 
     <?php require_once("lib/head-utils2.php");?>
+    <script src="lib/js/script.js"></script>
+
 
 </head>
 <body>
@@ -28,7 +30,6 @@
 
 </body>
 
-<script src="lib/js/script.js"></script>
 <?php require_once("stickyfoot.php");?>
 
 

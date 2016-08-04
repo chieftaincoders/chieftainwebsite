@@ -1,5 +1,5 @@
 
-                            /*DOWN BELOW IS THE STUFF FOR THE NAVAR AND LINKS COLORS AND SIZES */
+                            /*DOWN BELOW IS THE STUFF FOR THE NAVBAR AND LINKS COLORS AND SIZES */
 
 .icon-bar {
     background-color: #bab5b4;
@@ -54,7 +54,8 @@ a {
     color: #fff;
 }
 
-                                        /*END OF THE NAVBAR STUFF*/
+                                    /* DERP DERP  END OF THE NAVBAR STUFF  DERP DERP */
+
 .textAnimation {
     font-family: 'EB+Garamond';
     font-size: 5em;
@@ -111,7 +112,7 @@ a {
     font-size:15px;
     padding:16px 31px;
     text-decoration:none;
-    text-shadow:0px 1px 0px #28b7db;
+    text-shadow:0 1px 0 #28b7db;
 }
 .myButton:hover {
     background-color:#0055ff;
@@ -169,7 +170,7 @@ p {
     height: 30px;
 }
 #copy {
-    padding-right: 0px;
+    padding-right: 0;
     color: #580908;
 }
 
@@ -191,6 +192,7 @@ h6 {
 }
 
                              /*DOWN BELOW IS THE LINK HOVERING FOR THE NAVBAR */
+
 .link {
     opacity: 0.4;
 }
