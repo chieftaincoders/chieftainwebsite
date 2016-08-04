@@ -33,8 +33,8 @@
             languages, that we learn how to make a website more interactive and user friendly.
         </ul>
     <br>
-        <ul>Why we're doing coding is to learn the information that would needed to be done to create a websites inside and
-        out.
+        <ul>Why we're doing coding is to learn how to be web developers that would help create websites for our local
+            community and upcooming start up business's for economic development on the reservation. 
         </ul>
 </div>
 
