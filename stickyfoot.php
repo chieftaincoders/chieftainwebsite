@@ -12,7 +12,7 @@
             <small> Shiprock High School, U.S. 64 </small>
         </div>
         <div class="col-md-4" id="copy">
-            <small> Copyright © 2016 Shiprock High </small>
+            <small> Copyright &copy; 2016 Shiprock High </small>
             <br>
             <a href="https://www.facebook.com/shiprock.chieftain">
                 <i class="fa fa-facebook" aria-hidden="true"></i>
