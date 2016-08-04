@@ -8,9 +8,6 @@
 <body>
 
 <nav class="navbar navbar-transparent navbar-fixed-top">
-<!--    <ul class="nav navbar-nav navbar-right">-->
-<!--        <li><a href="https://www.facebook.com/shiprock.chieftain"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>-->
-<!--    </ul>-->
     <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
                 data-target="#bs-nav-demo" aria-expanded="false">
