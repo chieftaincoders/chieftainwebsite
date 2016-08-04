@@ -20,7 +20,6 @@
 </div>
 
 <div class="divide">
-    <p>
     <br>
         <ul>We the Chieftain Coders here at Shiprock High School are privileged and honored to be a part of the first
         Native American computer coding bootcamp for high school students in Navajo land. The nine of us participated in the
@@ -37,8 +36,6 @@
         <ul>Why we're doing coding is to learn the information that would needed to be done to create a websites inside and
         out.
         </ul>
-
-    </p>
 </div>
 
 </body>
