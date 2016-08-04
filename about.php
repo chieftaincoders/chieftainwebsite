@@ -11,7 +11,7 @@
     <?php require_once("navbar.php");?>
 </div>
 
-<div class="top">
+<div class="top" id="top">
     <div class="container">
         <div class="jumbotron">
             <h1 class="letters"> About </h1>

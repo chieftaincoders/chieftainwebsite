@@ -18,6 +18,8 @@
     alignment: center;
     width: 50%;
     font-size: 1.5em;
+    color: lightgray;
+
 
 }
 body {
@@ -34,6 +36,10 @@ body {
     height: 100%;
 
 }
+.top {
+    color: Lightgray;
+
+}
 .silver  {
     height: 100%;
 
@@ -42,4 +48,10 @@ body {
 .mainImage-3 {
     text-align: center;
 
+}
+.one {
+    text-align: center;
+}
+.drop {
+    padding-top: 10%;
 }
