@@ -31,13 +31,12 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     margin:0;
-    padding: 15px;
+    padding-top: 55px;
     perspective: 1px;
     transform-style: preserve-3d;
     overflow-y: scroll;
     overflow-x: hidden;
     height: 100%;
-
 }
 
 .silver  {
