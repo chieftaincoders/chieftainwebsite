@@ -125,9 +125,9 @@
 <!--                http://tinyurl.com/hdjrpht-->
                 <p id="codingCoders"><strong> O'Shea Goodman </strong>
                     <br>
-                    <p> Hello my name is O'Shea Goodman i am going to be a Junior at Shiprock High School during the years of 2016-2017 i will
-                        be graduating with the class of 2018. My personal site is below just click the button
-                        to learn more about me.
+                    <p> Hello my name is O'Shea Goodman i am going to be a Junior at Shiprock High School during the
+                        years of 2016-2017 i will be graduating with the class of 2018. My personal site is below just
+                        click the button to learn more about me.
                         <br>
                         <i class="em em-point_down"></i>
                         <i class="em em-hatching_chick"></i>
