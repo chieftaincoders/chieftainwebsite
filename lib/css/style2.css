@@ -18,9 +18,7 @@
     alignment: center;
     width: 50%;
     font-size: 1.5em;
-    color: lightgray;
-
-
+    color: #C0C0C0;
 }
 body {
     background-image: url("http://tinyurl.com/jta9tvk");
@@ -37,7 +35,7 @@ body {
 
 }
 .top {
-    color: Lightgray;
+    color: #C0C0C0;
 
 }
 .silver  {

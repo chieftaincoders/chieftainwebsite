@@ -22,16 +22,20 @@
 <div class="divide">
     <p>
     <br>
-        <ul>We all joined the cultivating coders to learn how to code, inside and outside the web page.
-        It does take time to learn like we did, it is worth the time learning how to code. Some breif
-        time later we would start to get the hang of the formate that we learned from our instructor Charles.
-        </ul>
+        <ul>We the Chieftain Coders here at Shiprock High School are privileged and honored to be a part of the first
+        Native American computer coding bootcamp for high school students in Navajo land. The nine of us participated in the
+        Cultivating Coders bootcamp to learn how to code from the front end to the back end of web development.
+        It does take time to learn like we did, but it is worth the time learning how to code. Some brief time later we
+        would start to get the hang of the coding format that we learned from our instructors from Cultivating Coders
+        and Cheii's DevShop.
+    </ul>
     <br>
-        <ul>The aspiration of learning how to make a website is intricate, with 
+        <ul>The aspiration of learning how to make a website is intricate, because of all the different programing
+            languages, that we learn how to make a website more interactive and user friendly.
         </ul>
     <br>
         <ul>Why we're doing coding is to learn the information that would needed to be done to create a websites inside and
-        out. Whaat else should i on here
+        out.
         </ul>
 
     </p>
