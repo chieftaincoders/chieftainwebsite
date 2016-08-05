@@ -10,7 +10,7 @@
 <?php require_once("navbar.php");?>
 
 
-<div class="mainImage-2" datasrc="./Shiprock.jpg">
+<div class="mainImage-2">
     <h1>Contact</h1>
 </div>
 
