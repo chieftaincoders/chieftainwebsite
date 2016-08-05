@@ -32,6 +32,8 @@
 <!--ALWAYS USE HEEBO-->
 <link href='https://fonts.googleapis.com/css?family=Heebo:400' rel='stylesheet' type='text/css'>
 
+<link rel="short icon" href="lib/images/indian-head-clipart-cliparts-co-fwb6xj-clipart_102.ico"/>
+
 <link rel="stylesheet" type="text/css" href="lib/css/style.css">
 
 

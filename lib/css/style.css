@@ -181,9 +181,10 @@ p {
 }
 
 .para{
-    font-size: 1.1em;
+    font-size: 1.3em;
     float: left;
     font-family: 'Heebo', sans-serif;
+    alignment: center;
 }
 
 .Bloop{
