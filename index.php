@@ -2,6 +2,9 @@
 <html lang="en">
 <head>
     <?php require_once("lib/head-utils3.php");?>
+    <?php require_once("lib/head-utils.php");?>
+    <link rel="short icon" href="lib/pictures/indian-head.ico"/>
+
     <script src="lib/js/script.js"></script>
 </head>
 <body>
