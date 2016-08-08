@@ -9,7 +9,7 @@
     
 </head>
 <body>
-
+ 
 <div class="mainImage">
     <?php require_once("navbar.php");?>
 </div>
@@ -37,7 +37,7 @@
         </ul>
     <br>
         <ul>Why we're doing coding is to learn how to be web developers that would help create websites for our local
-            community and upcooming start up business's for economic development on the reservation. 
+            community and upcooming start up business's for economic development on the reservation.
         </ul>
 </div>
 
