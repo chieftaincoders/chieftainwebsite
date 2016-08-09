@@ -29,6 +29,7 @@
         </article>
     </section>
 
+
     <input id="portfolio" type="radio" name="menu"/>
     <section>
         <article>
@@ -69,11 +70,11 @@
     <input type="radio" name="menu" id="menu"/>
     <menu>
         <nav>
-            <label for="home">Home</label>
-            <label for="about">About</label>
-            <label for="portfolio">Portfolio</label>
-            <label for="donations">Donations</label>
-            <label for="contact">Contact</label>
+            <label for="home"><h1>Home</h1></label>
+            <label for="about"><h2>About</h2></label>
+            <label for="portfolio"><h3>Portfolio</h3></label>
+            <label for="donations"><h4>Donations</h4></label>
+            <label for="contact"><h5>Contact</h5></label>
         </nav>
     </menu>
 </main>
