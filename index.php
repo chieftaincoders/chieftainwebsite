@@ -10,7 +10,7 @@
     <section>
       <div class="row" style="padding-right: 5%;">
         <div class="col-md-2">
-          <img id="chiefLogo" src="lib/pictures/chieftainsCoders.png" alt="" />
+          <img class="animated bounceInLeft" id="chiefLogo" src="lib/pictures/chieftainsCoders.png" alt="" />
         </div>
         <div class="col-md-4 col-md-offset-3">
           <h3>Shiprock</h3>
@@ -19,7 +19,7 @@
           <h2>coders</h2>
         </div>
         <div class="col-md-2">
-          <img id="chiefLogo" src="lib/pictures/chieftainsCoders.png" alt="" />
+          <img class="animated bounceInRight" id="chiefLogo" src="lib/pictures/chieftainsCoders.png" alt="" />
         </div>
       </div>
     </section>

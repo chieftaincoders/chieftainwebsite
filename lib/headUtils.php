@@ -21,6 +21,8 @@
       integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1"
       crossorigin="anonymous">
 
+<link rel="stylesheet" href="lib/css/animate.css"/>
+
 <link rel="stylesheet" href="lib/css/stylelize.css"/>
 
 <link rel="stylesheet" href="lib/css/style.css"/>
