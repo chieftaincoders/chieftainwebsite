@@ -50,6 +50,25 @@
             <span><h1>stability</h1></span>
             <span>&nbsp;<h2>portability</h2></span>
             <span><h1>&amp;</h1> <p><em><u>versatilit</u>y.</em></p></span>
+            
+            <div id="floatleft" class="col-lg-4 col-md-6 col-sm-6">
+                <img id="photos" src="lib/pictures/alan.png" class="img-circle">
+                <p id="codingCoders"><strong> Alan Taliman </strong>
+                    <br>
+                <p> Hi my name is Alan Taliman, I'm gonna be a junnior this year 2016-2017, graduating in 2018 as
+                    a senior. derp
+                    <br>
+                    <i class="em em-arrow_down"></i>
+                    <i class="em em-smile"></i>
+                    <i class="em em-arrow_down"></i>
+                </p>
+                <a id="codersWeb" href="http://allietech.com/">
+                    <button type="button" class="myButton">
+                        Alan's Web
+                    </button>
+                </a>
+                </p>
+            </div>
         </article>
     </section>
 
