@@ -51,23 +51,19 @@
             <span>&nbsp;<h2>personalities</h2></span>
             <span><h1>&amp;</h1> <p><em><u>who the</u>y are.</em></p></span>
             
-            <div id="floatleft" class="col-lg-4 col-md-6 col-sm-6">
-                <img id="photos" src="lib/pictures/alan.png" class="img-circle">
-                <p id="codingCoders"><strong> Alan Taliman </strong>
-                    <br>
-                <p> Hi my name is Alan Taliman, I'm gonna be a junnior this year 2016-2017, graduating in 2018 as
-                    a senior. derp
-                    <br>
-                    <i class="em em-arrow_down"></i>
-                    <i class="em em-smile"></i>
-                    <i class="em em-arrow_down"></i>
-                </p>
-                <a id="codersWeb" href="http://allietech.com/">
-                    <button type="button" class="myButton">
-                        Alan's Web
-                    </button>
-                </a>
-                </p>
+            <div class="container">
+                <h2>The students personal websites:</h2>
+                <ul>
+                    <h4>Alan Taliman <a href="http://allietech.com"></h4>
+                    <h4>O'shea Goodman  <a href="http://osheadev.com"></h4>
+                    <h4>Rius Goodman  <a href="http://riusbearjew.com "></h4>
+                    <h4>Amber Henderson  <a href="http://amoshma.com "></h4>
+                    <h4>Kea Chico  <a href="http://keasioux.com"></h4>
+                    <h4>Adam Pettigrew  <a href="http://adamjpett.com"></h4>
+                    <h4>Danyel Johnson  <a href="http://danyelmarie.com"></h4>
+                    <h4>Marissa Shorty  <a href="http://marissashorty.com "></h4>
+                    <h4>Courtney Elwood  <a href="http://robinelwood.com"></h4>
+                </ul>
             </div>
         </article>
     </section>
