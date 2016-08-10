@@ -3,6 +3,8 @@
 <head>
 
     <?php require_once("lib/head-utils.php");?>
+    <?php require_once("lib/head-utils2.php");?>
+    <?php require_once("lib/head-utils3.php");?>
 
 </head>
 <body>

@@ -46,7 +46,7 @@
     <div class="container">
         <div class="row">
             <div id="floatleft" class="col-lg-4 col-md-6 col-sm-6">
-                <img id="photos" src="http://tinyurl.com/gphleca" class="img-circle">
+                <img id="photos" src="lib/pictures/alan.png" class="img-circle">
                 <p id="codingCoders"><strong> Alan Taliman </strong>
                         <br>
                     <p> Hi my name is Alan Taliman, I'm gonna be a junnior this year 2016-2017, graduating in 2018 as
@@ -85,7 +85,7 @@
             </div>
 
             <div id="floatleft" class="col-lg-4 col-md-6 col-sm-6">
-                <img id="photos" src="http://tinyurl.com/oaasczb" class="img-circle">
+                <img id="photos" src="lib/pictures/rius.jpg" class="img-circle">
                 <p id="codingCoders"><strong> Rius Goodman </strong>
                         <br>
                     <p>
@@ -165,8 +165,8 @@
 
 
             <div id="floatleft" class="col-lg-4 col-md-6 col-sm-6">
-                <img id="photos" src="http://tinyurl.com/hatgfm6" class="img-circle">
-                <p id="codingCoders"><strong> Test </strong>
+                <img id="photos" src="lib/pictures/kea.jpg" class="img-circle">
+                <p id="codingCoders"><strong> Kea Chico </strong>
                         <br>
                     <p>
                         <br>
@@ -174,9 +174,9 @@
                         <i class="em em-smiley_cat"></i>
                         <i class="em em-arrow_down"></i>
                     </p>
-                    <a id="codersWeb" href="">
+                    <a id="codersWeb" href="http://keasioux.com/">
                         <button type="button" class="myButton">
-                            Test
+                            Kea's Web
                         </button>
                     </a>
                 </p>
