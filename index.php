@@ -8,20 +8,30 @@
 <main>
     <input id="home" type="radio" name="menu" checked="checked"/>
     <section>
-        <h3>Shiprock</h3>
-        <h1>High</h1>
-        <h4 id="chieftains">chieftains</h4><br><br>
-        <h2>coders</h2>
+      <div class="row" style="padding-right: 5%;">
+        <div class="col-md-2">
+          <img id="chiefLogo" src="lib/pictures/chieftainsCoders.png" alt="" />
+        </div>
+        <div class="col-md-4 col-md-offset-3">
+          <h3>Shiprock</h3>
+          <h1>High</h1>
+          <h4 id="chieftains">chieftains</h4><br><br>
+          <h2>coders</h2>
+        </div>
+        <div class="col-md-2">
+          <img id="chiefLogo" src="lib/pictures/chieftainsCoders.png" alt="" />
+        </div>
+      </div>
     </section>
 
     <input id="about" type="radio" name="menu"/>
     <section>
         <article>
-            <span><h3 id="headline">About!</h3></span>
-            <span id="chieftainsPadding"><h1>We<br/>are</h1></span><br>
-            <span><h2 id="chieftainsPadding">junior<br/>web</h2><h2>developers</h2></span>
-            <span><h4>honestly<br/>they're</h4> <h2>everywhere</h2></span>
-            <span><h5>It turns out that&nbsp;</h5> <h6>a radio input's</h6> <h4>&nbsp;label will</h4></span>
+            <span><h1 id="aboutHeadline"> About:</h1></span>
+            <span><h1 id="weAre">We are</h1></span>
+            <span><h2 id="chieftainsPadding">junior web developers</h2></span>
+            <span><h4>We are located </h4><h2>on the reservation</h2></span>
+            <span><h5>of Shiprock, </h5><h1>NEW MEXCIO</h1> <h6> We vary in age</h6> <h4> from</h4><h2> 15</h2><h4> to</h4><h1> 17</h1></span>
             <span><p><b>still</b> check it off</p> <h5>even when there's</h5> <p><b>no <u><s>common</s></u> parent.</b></p></span>
             <span><h2>- all YOU</h2> <h1>need</h1> <h4>to<br/>do</h4></span>
             <span><p>is place the <em>input</em></p> <p><b>immediately before</b></p> <p>its corresponding section.</p></span>

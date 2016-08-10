@@ -555,7 +555,7 @@ section:nth-of-type(2) span:nth-child(2) h1:after{
     position:absolute;
     bottom:-10px;
     left:5px;
-    background-color:white;
+    /*background-color:white;*/
 }
 section:nth-of-type(2) span:nth-child(3){
     margin:-20px 0 15px;
