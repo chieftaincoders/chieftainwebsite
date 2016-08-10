@@ -43,13 +43,13 @@
     <input id="portfolio" type="radio" name="menu"/>
     <section>
         <article>
-            <span><h3>But why!?</h3></span>
-            <span><h1>mostly</h1> <h2>just</h2> <h4>for<br/>fun.</h4></span>
-            <span><h4>besides keeping me<br/>busy last weekend</h4> <h2>it offers</h2></span>
-            <span><h6>benefits <b>including</b></h6> <h4>(but not limited to)</h4></span>
-            <span><h1>stability</h1></span>
-            <span>&nbsp;<h2>portability</h2></span>
-            <span><h1>&amp;</h1> <p><em><u>versatilit</u>y.</em></p></span>
+            <span><h3>All the</h3></span>
+            <span><h1>students</h1> <h2>in</h2> <h4>this<br/>program</h4></span>
+            <span><h4>made their own websites.<br/>The websites</h4> <h2>shows a little bit</h2></span>
+            <span><h6>about <b>the</b></h6> <h4>students</h4></span>
+            <span><h1>hobbies,</h1></span>
+            <span>&nbsp;<h2>personalities</h2></span>
+            <span><h1>&amp;</h1> <p><em><u>who the</u>y are.</em></p></span>
             
             <div id="floatleft" class="col-lg-4 col-md-6 col-sm-6">
                 <img id="photos" src="lib/pictures/alan.png" class="img-circle">
