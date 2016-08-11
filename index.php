@@ -254,7 +254,7 @@
     <input id="contact" type="radio" name="menu"/>
     <section>
         <article>
-            <span><h3>Who's Udy??</h3></span>
+            <span><h3>Shiprock High </h3></span>
             <span><h2>That's me!</h2></span>
             <span><h2><u><s>I'm</s></u> a</h2> <h5><s>front–end</s><br/><em>developer</em></h5></span>
             <span><h1>from</h1> <h4><u><b>Québec</b></u><br/>Canada</h4> <h2>who</h2></span>
