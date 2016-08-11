@@ -54,22 +54,22 @@
             <div class="container">
                 <h2>The students personal websites:</h2>
                 <ul>
-                    <h4>Alan Taliman <a href="http://allietech.com"></h4>
-                    <h4>O'shea Goodman  <a href="http://osheadev.com"></h4>
-                    <h4>Rius Goodman  <a href="http://riusbearjew.com "></h4>
-                    <h4>Amber Henderson  <a href="http://amoshma.com "></h4>
-                    <h4>Kea Chico  <a href="http://keasioux.com"></h4>
-                    <h4>Adam Pettigrew  <a href="http://adamjpett.com"></h4>
-                    <h4>Danyel Johnson  <a href="http://danyelmarie.com"></h4>
-                    <h4>Marissa Shorty  <a href="http://marissashorty.com "></h4>
-                    <h4>Courtney Elwood  <a href="http://robinelwood.com"></h4>
+                    <a href="http://allietech.com"> <h4>Alan Taliman</h4></a>
+                    <a href="http://osheadev.com/"><h4>O'shea Goodman</h4></a>
+                    <a href="http://riusbearjew.com "> <h4>Rius Goodman</h4></a>
+                    <a href="http://amoshma.com "> <h4>Amber Henderson</h4></a>
+                    <a href="http://keasioux.com"><h4>Kea Chico</h4></a>
+                    <a href="http://adamjpett.com"><h4>Adam Pettigrew</h4></a>
+                    <a href="http://danyelmarie.com"><h4>Danyel Johnson</h4></a>
+                    <a href="http://marissashorty.com "><h4>Marissa Shorty</h4></a>
+                    <a href="http://robinelwood.com"><h4>Courtney Elwood</h4></a>
                 </ul>
             </div>
         </article>
 
 
 
-        <div id="floatright" class="col-lg-4 col-md-6 col-sm-6">
+       <!-- <div id="floatright" class="col-lg-4 col-md-6 col-sm-6">
             <img id="photos" src="http://tinyurl.com/h4mkoaz" class="img-circle">
             <p id="codingCoders"><strong> Amber Henderson </strong>
                 <br>
@@ -164,7 +164,7 @@
 
         <div id="floatleft" class="col-lg-4 col-md-6 col-sm-6">
             <img id="photos" src="lib/pictures/catThreeRed.JPG" class="img-circle">
-            <!--                http://tinyurl.com/hdjrpht-->
+            /*                http://tinyurl.com/hdjrpht        */
             <p id="codingCoders"><strong> O'Shea Goodman </strong>
                 <br>
             <p> Hello my name is O'Shea Goodman i am going to be a Junior at Shiprock High School during the
@@ -237,7 +237,7 @@
                 </button>
             </a>
             </p>
-        </div>
+        </div>-->
     </section>
 
     <input id="donations" type="radio" name="menu"/>
