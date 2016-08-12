@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
 <head>
     <?php require_once("lib/headUtils.php");?>
 </head>
@@ -246,7 +246,10 @@
             <span><h3>But semantics!!</h3></span>
             <span><h2>oh...</h2> <h1>yeah...</h1> <h4><em>about<br/>that...</em></h4></span>
             <span><h5><em>Holy cow!</em></h5> <h4>&nbsp;Check out this&nbsp;</h4> <h3><b>amazing</b></h3></span>
-            <span><h6><em>svg path&nbsp;</em> <u><s>animation</s></u></h6> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320"><g><path class="orange" d="m320.332 174.25c0 0 53.59 105.839 162.621 105.608 145.539-.309 141.489-239.6394-4.525-239.853-130.462-.1909-169.6 234.495-300.193 239.853-172.94203 7.095-167.6333-237.2565-4.526-239.853 101.036-1.6084 146.623 134.245 146.623 134.245" fill="none" stroke="#f7b37f" stroke-linecap="miter" stroke-width="60" stroke-miterlimit="2"/><path class="white" d="m320.332 174.25c0 0 53.59 105.839 162.621 105.608 145.539-.309 141.489-239.6394-4.525-239.853-130.462-.1909-169.6 234.495-300.193 239.853-172.94203 7.095-167.6333-237.2565-4.526-239.853 101.036-1.6084 146.623 134.245 146.623 134.245" fill="none" stroke="#fff" stroke-linecap="miter" stroke-width="60" stroke-miterlimit="2"/><path class="black" d="m320.332 174.25c0 0 53.59 105.839 162.621 105.608 145.539-.309 141.489-239.6394-4.525-239.853-130.462-.1909-169.6 234.495-300.193 239.853-172.94203 7.095-167.6333-237.2565-4.526-239.853 101.036-1.6084 146.623 134.245 146.623 134.245" fill="none" stroke="#3f3f37" stroke-linecap="miter" stroke-width="63" stroke-miterlimit="2"/></g></svg></span>
+            <span><h6><em>svg path&nbsp;</em> <u><s>animation</s></u></h6> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320"><g><path class="orange" d="m320.332 174.25c0 0 53.59 105.839 162.621 105.608 145.539-.309 141.489-239.6394-4.525-239.853-130.462-.1909-169.6 234.495-300.193 239.853-172.94203 7.095-167.6333-237.2565-4.526-239.853 101.036-1.6084 146.623 134.245 146.623 134.245" fill="none" stroke="#f7b37f" stroke-linecap="miter" stroke-width="60" stroke-miterlimit="2"/>
+                        <path class="white" d="m320.332 174.25c0 0 53.59 105.839 162.621 105.608 145.539-.309 141.489-239.6394-4.525-239.853-130.462-.1909-169.6 234.495-300.193 239.853-172.94203 7.095-167.6333-237.2565-4.526-239.853 101.036-1.6084 146.623 134.245 146.623 134.245" fill="none" stroke="#fff" stroke-linecap="miter" stroke-width="60" stroke-miterlimit="2"/>
+                        <path class="black" d="m320.332 174.25c0 0 53.59 105.839 162.621 105.608 145.539-.309 141.489-239.6394-4.525-239.853-130.462-.1909-169.6 234.495-300.193 239.853-172.94203 7.095-167.6333-237.2565-4.526-239.853 101.036-1.6084 146.623 134.245 146.623 134.245" fill="none" stroke="#3f3f37" stroke-linecap="miter" stroke-width="63" stroke-miterlimit="2"/></g></svg>
+            </span>
             <p>(ps. Still no JavaScript)</p>
         </article>
     </section>
@@ -255,11 +258,11 @@
     <section>
         <article>
             <span><h3>Shiprock High </h3></span>
-            <span><h2>That's me!</h2></span>
-            <span><h2><u><s>I'm</s></u> a</h2> <h5><s>front–end</s><br/><em>developer</em></h5></span>
-            <span><h1>from</h1> <h4><u><b>Québec</b></u><br/>Canada</h4> <h2>who</h2></span>
-            <span><h2>(</h2> <h4>now quite<br/>ironically</h4> <h2>)</h2> <h5>likes to spend his time<br/><b>writing</b> <u><s>JavaScript</s></u></h5></span>
-            <span><h4>check out <b>my</b></h4> <h6><a href="http://codepen.io/udyux/" target="_blank"><s>profile</s></a></h6> <u><h5>for more pens.</h5></u></span>
+            <span><h2>CONTACT US</h2></span>
+            <span><h2><u><s>Follow </s></u> us ----> </h2> <h5><s><a href="https://www.facebook.com/shiprock.chieftain"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></s><br/><em><a href="https://twitter.com/shschieftains"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></em></h5></span>
+            <span><h1>from</h1><h4><u><b>Shiprock</b></u><br/>New Mexico</h4><h2>Shiprock </br> High School</br> U.S. 64</h2></span>
+            <span><h4> P.O. Box 3578<br/> Tel: (505) 368-5161 </h4><h5> Shiprock, NM 87401 <br/><s>Fax: (505) 368-5796</s></h5></span>
+            <span><u><h5> Email: shs@centralschools.org</h5></u></span>
         </article>
     </section>
 
